@@ -23,6 +23,9 @@
 
 I’m an Applied AI/ML Engineer focused on building practical AI systems using LLMs, data science, and scalable machine learning approaches. My work spans developing intelligent agents, data-driven tools, and backend systems that make models reliable and usable in real-world scenarios. I enjoy working across the full pipeline, from data analysis and model building to deploying AI-powered applications.
 
+<img align="right" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api?username=night-spring&show_icons=true&count_private=true&hide_border=true" alt="Stats"/>
+
+
 - 🏆 Two-times **Smart India Hackathon Finalist** (2024 & 2025) 
 - 🤖 Building **LLM applications and AI agents** for real-world use  
 - 📊 Strong in **data science, EDA, and ML/DL model development**  
@@ -119,8 +122,4 @@ I’m an Applied AI/ML Engineer focused on building practical AI systems using L
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=night-spring&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
-
-<br/>  
 
