@@ -23,7 +23,7 @@
 
 I’m an Applied AI/ML Engineer focused on building practical AI systems using LLMs, data science, and scalable machine learning approaches. My work spans developing intelligent agents, data-driven tools, and backend systems that make models reliable and usable in real-world scenarios. I enjoy working across the full pipeline, from data analysis and model building to deploying AI-powered applications.
 
-<img align="right" width="400" hspace="10" src="https://github-readme-stats.vercel.app/api?username=night-spring&show_icons=true&count_private=true&hide_border=true" alt="Stats"/>
+<img align="right" width="450" src="https://github-readme-stats-sigma-five.vercel.app/api?username=night-spring&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764abc&text_color=c9d1d9&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
 
 
 - 🏆 Two-times **Smart India Hackathon Finalist** (2024 & 2025) 
@@ -35,7 +35,9 @@ I’m an Applied AI/ML Engineer focused on building practical AI systems using L
 </div>  
 <br/>
 
-## 🚀 Tech Stack  
+<div align="center">
+  
+## 💻 Tech Stack  
 
 <table align="center">
 
@@ -119,7 +121,30 @@ I’m an Applied AI/ML Engineer focused on building practical AI systems using L
 </tr>
 
 </table>
+</div>
 <br/>  
 
+<div align="center">
+
+<a id="achievements--recognition"></a>
+
+## 🏆 Achievements & Recognition
+### 🎖️ Smart India Hackathon 2024
+**Finalist** 🏅
+
+*One of India's largest innovation challenges, recognized for developing impactful tech solutions*
+<br/>
+
+### 🎖️ Smart India Hackathon 2025
+**Finalist** 🏅
+
+*Continuing to build and present innovation-driven solutions through national-level hackathon collaboration.*
+</div>
+<br/>
+
+##
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=night-spring&bg_color=0d1117&color=667eea&line=764abc&point=6B8DD6&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=night-spring&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 
