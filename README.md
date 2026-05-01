@@ -49,10 +49,6 @@ Docker · Kubernetes · AWS · GCP · LangSmith · VectorDB · PostgreSQL
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Flask.svg" alt="Flask" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/React.svg" alt="React" height="50" /></a> 
 <a href="https://streamlit.io/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Streamlit.svg" alt="Streamlit" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Firebase.svg" alt="Firebase" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/MongoDB.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/MySQL.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/PostgresSQL.svg" alt="PostgreSQL" height="50" /></a> 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Bootstrap.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
@@ -62,17 +58,22 @@ Docker · Kubernetes · AWS · GCP · LangSmith · VectorDB · PostgreSQL
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/AWS.svg" alt="AWS" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Google%20Cloud.svg" alt="GCP" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Docker.svg" alt="Docker" height="50" /></a>  
-</div>
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Tableau.svg" alt="Tableau" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/PowerBi.svg" alt="Power Bi" height="50" /></a>   
+<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/PowerBi.svg" alt="Power Bi" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Firebase.svg" alt="Firebase" height="50" /></a>  
+</div>
 
 </td><td valign="top" width="25%">
 
-<div align="center">  
+<div align="center">
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/MongoDB.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/MySQL.svg" alt="MySQL" height="50" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/PostgresSQL.svg" alt="PostgreSQL" height="50" /></a> 
 <a href="https://www.anaconda.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Anaconda.svg" alt="Anaconda" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Linux.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Git.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://github.com/night-spring/profile/blob/main/tech_stack/Bash.svg" alt="Bash" height="50" /></a>  
+</div>
 
 </td></tr></table>  
 
