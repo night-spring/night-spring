@@ -2,19 +2,34 @@
 </div>  
   
 
-### <div align="center">I'm an Applied AIML Engineer
+## 👋 Hi, I'm Debojit Roy  
+**Applied AI/ML Engineer | LLMs • ML Systems • Full-Stack AI**
 
-I build machine learning systems and LLM-powered applications focused on production reliability.
+My work focuses on **LLM applications and scalable ML systems**, from AI agents and data-driven tools to backend systems that make models reliable in real-world use.
 
-🏆 Two-time Smart India Hackathon finalist (2024 & 2025)
+I’ve built **LLM-powered agents, conversational apps, and automation tools**, with a strong foundation in machine learning and deep learning.
 
-🔍 Interests: Agentic workflows · RAG · ML system design · MLOps · Full-stack AI deployment
+🏆 Two-time Smart India Hackathon Finalist (2024 & 2025)
+
+💡 Interested in Generative AI, RAG systems, and building real-world AI products.
 
 </div>  
-  
+<br/>
 
-<br/>  
-
+<p align="center">
+  <a href="https://github.com/night-spring" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/debojitroy001" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+  </a>  
+  <a href="mailto:debjit94333@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>    
+  <a href="https://leetcode.com/u/night-spring/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" />
+  </a>    
+</p>
 
 ## 🚀 Tech Stack  
 
@@ -45,27 +60,24 @@ I build machine learning systems and LLM-powered applications focused on product
 </tr>
 
 <tr>
-<td align="center"><strong>🌐 Web</strong></td>
+<td align="center"><strong>🎨 Frontend</strong></td>
 <td>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
-<a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a>
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/></a>
 </td>
 </tr>
 
 <tr>
-<td align="center"><strong>☁️ Cloud / DevOps</strong></td>
+<td align="center"><strong>⚙️ Backend</strong></td>
 <td>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB"/></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white"/></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/></a>
+<a href="https://streamlit.io/" target="_blank"><img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/></a>
 </td>
 </tr>
 
@@ -75,9 +87,18 @@ I build machine learning systems and LLM-powered applications focused on product
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/></a>
+<a href="https://sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/></a>
+</td>
+</tr>
+
+<tr>
+<td align="center"><strong>☁️ Cloud / DevOps</strong></td>
+<td>
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"/></a>
+<a href="https://cloud.google.com/" target="_blank"><img src="https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=googlecloud&logoColor=white"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
 <a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/></a>
 <a href="https://supabase.com/" target="_blank"><img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"/></a>
-<a href="https://sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white"/></a>
 </td>
 </tr>
 
@@ -94,18 +115,6 @@ I build machine learning systems and LLM-powered applications focused on product
 </tr>
 
 </table>
-<br/>  
-
-
-## Connect with me  
-<a href="https://github.com/night-spring" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/debojitroy001" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-  
-
 <br/>  
 
 
