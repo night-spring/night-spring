@@ -1,20 +1,8 @@
-<img src="https://github.com/night-spring/profile/blob/main/poster.png" align="center" style="width: 100%" />
-</div>  
-  
+<div align="center">
 
-## 👋 Hi, I'm Debojit Roy  
-**Applied AI/ML Engineer | LLMs • ML Systems • Full-Stack AI**
-
-My work focuses on **LLM applications and scalable ML systems**, from AI agents and data-driven tools to backend systems that make models reliable in real-world use.
-
-I’ve built **LLM-powered agents, conversational apps, and automation tools**, with a strong foundation in machine learning and deep learning.
-
-🏆 Two-time Smart India Hackathon Finalist (2024 & 2025)
-
-💡 Interested in Generative AI, RAG systems, and building real-world AI products.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=150&section=header&text=Debojit%20Roy&fontSize=48&fontColor=00f5ff&animation=fadeIn&fontAlignY=42&desc=Applied%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developement&descSize=16&descColor=38bdf8&descAlignY=68&descAlign=50"/>
 
 </div>  
-<br/>
 
 <p align="center">
   <a href="https://github.com/night-spring" target="_blank">
@@ -30,6 +18,19 @@ I’ve built **LLM-powered agents, conversational apps, and automation tools**, 
     <img src="https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06" />
   </a>    
 </p>
+
+## 
+
+I’m an Applied AI/ML Engineer focused on building practical AI systems using LLMs, data science, and scalable machine learning approaches. My work spans developing intelligent agents, data-driven tools, and backend systems that make models reliable and usable in real-world scenarios. I enjoy working across the full pipeline, from data analysis and model building to deploying AI-powered applications.
+
+- 🏆 Two-times **Smart India Hackathon Finalist** (2024 & 2025) 
+- 🤖 Building **LLM applications and AI agents** for real-world use  
+- 📊 Strong in **data science, EDA, and ML/DL model development**  
+- ⚙️ Focused on **scalable ML systems and full-stack AI integration**  
+- 💡 Exploring GenAI, RAG, and AI products
+
+</div>  
+<br/>
 
 ## 🚀 Tech Stack  
 
