@@ -5,10 +5,10 @@
 </div>  
 
 <p align="center">
-  <a href="https://github.com/night-spring" target="_blank">
+  <a href="https://github.com/debojit94333" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/debojitroy001" target="_blank">
+  <a href="https://linkedin.com/in/debojit94333" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>  
   <a href="mailto:debjit94333@gmail.com" target="_blank">
