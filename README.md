@@ -23,7 +23,7 @@
 
 I’m an Applied AI/ML Engineer focused on building practical AI systems using LLMs, data science, and scalable machine learning approaches. My work spans developing intelligent agents, data-driven tools, and backend systems that make models reliable and usable in real-world scenarios. I enjoy working across the full pipeline, from data analysis and model building to deploying AI-powered applications.
 
-<img align="right" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=night-spring&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764abc&text_color=c9d1d9&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
+<img align="right" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debojit94333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764abc&text_color=c9d1d9&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
 
 
 - 🏆 Two-times **Smart India Hackathon Finalist** (2024 & 2025) 
@@ -143,8 +143,8 @@ I’m an Applied AI/ML Engineer focused on building practical AI systems using L
 <br/>
 
 ##
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=night-spring&bg_color=0d1117&color=667eea&line=764abc&point=6B8DD6&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=debojit94333&bg_color=0d1117&color=667eea&line=764abc&point=6B8DD6&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=night-spring&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=debojit94333&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 
