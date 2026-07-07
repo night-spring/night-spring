@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=150&section=header&text=Debojit%20Roy&fontSize=48&fontColor=00f5ff&animation=fadeIn&fontAlignY=42&desc=Applied%20AI%20Engineer%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Developement&descSize=16&descColor=38bdf8&descAlignY=68&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,100:0f172a&height=150&section=header&text=Debojit%20Roy&fontSize=48&fontColor=00f5ff&animation=fadeIn&fontAlignY=42&desc=Applied%20AIML%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=16&descColor=38bdf8&descAlignY=68&descAlign=50"/>
 
 </div>  
 
@@ -21,7 +21,7 @@
 
 ## 
 
-I’m an Applied AI/ML Engineer focused on building practical AI systems using LLMs, data science, and scalable machine learning approaches. My work spans developing intelligent agents, data-driven tools, and backend systems that make models reliable and usable in real-world scenarios. I enjoy working across the full pipeline, from data analysis and model building to deploying AI-powered applications.
+I’m an Applied AIML Engineer focused on building practical AI systems using LLMs, data science, and scalable machine learning approaches. My work spans developing intelligent agents, data-driven tools, and backend systems that make models reliable and usable in real-world scenarios. I enjoy working across the full pipeline, from data analysis and model building to deploying AI-powered applications.
 
 <img align="right" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=debojit94333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764abc&text_color=c9d1d9&custom_title=GitHub%20Stats" alt="GitHub Stats"/>
 
@@ -42,7 +42,7 @@ I’m an Applied AI/ML Engineer focused on building practical AI systems using L
 <table align="center">
 
 <tr>
-<td align="center"><strong>🧠 AI / ML</strong></td>
+<td align="center"><strong>🧠 AIML Core</strong></td>
 <td>
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></a>
