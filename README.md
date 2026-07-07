@@ -143,8 +143,20 @@ I’m an Applied AI/ML Engineer focused on building practical AI systems using L
 <br/>
 
 ##
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=debojit94333&bg_color=0d1117&color=667eea&line=764abc&point=6B8DD6&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=debojit94333&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
 
 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs</h2>
+<p align="center">
+  <a href="https://github.com/debojit94333">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=debojit94333&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=debojit94333&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<br />
+
+<!--Contribution Graph-->
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=debojit94333&bg_color=0d1117&color=667eea&line=764abc&point=6B8DD6&area=true&area_color=667eea&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+</div>
